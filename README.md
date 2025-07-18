@@ -1,4 +1,4 @@
-## Reconhecimento  dígitos manuscritos (HDR) usando re neural convolucional (CNN) em SystemVerilog
+## Reconhecimento  dígitos manuscritos (HDR) usando rede neural convolucional (CNN) em SystemVerilog
 
 O Reconhecimento  Dígitos Manuscritos é o processo  digitalização  imagens  dígitos manuscritos por humanos. É uma tarefa
 difícil para a máquina, pois os dígitos manuscritos não são perfeitos e podem ser produzidos com uma grande variabilidade. Neste projeto, desenvolvemos
